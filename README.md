@@ -4,5 +4,5 @@
 
 |<center>적용기술<center>|<center>version<center>|
 |------|------|
-|<center>egovFramework<center> |<center> 3.8<center>|
+|<center>egovFramework<center> |<center>3.8<center>|
 
