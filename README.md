@@ -4,6 +4,6 @@
 
 |<center>적용기술<center>|<center>Version<center>|
 |:------:|:------:|
-|<center>java-openJDK<center> |<center>1.8<center>|  
-|<center>egovFramework<center> |<center>3.8<center>|
+|<center>Java-OpenJDK<center> |<center>1.8<center>|  
+|<center>eGovFramework<center> |<center>3.8<center>|
 
