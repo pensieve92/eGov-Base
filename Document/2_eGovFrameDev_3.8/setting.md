@@ -9,18 +9,8 @@
 *****
 
 > ## Install
-> 1. *java-1.8.0-openjdk-1.8.0.212-1.b04.ojdkbuild.windows.x86_64.msi (sha256)* 실행
-> 
-> * 다음, 다음, 다음으로 Install 완료!!
-> 
-> 2. JAVA_HOME 변수 지정
-> 
-> 3. Path 지정
-> 
-> 4. java, javac 버전확인
-> 
- 
-
+> 1. *eGovFrameDev-3.8.0-64bit* 실행
+> * 설치 경로 C:\로 변경, 설치 완료!!
 
 
 *****
