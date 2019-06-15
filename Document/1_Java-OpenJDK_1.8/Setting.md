@@ -13,7 +13,7 @@
 >
 > ![image](https://user-images.githubusercontent.com/51815947/59551970-4f62a800-8fbc-11e9-825e-de356c825098.png)
 > 
-> 다음 다음으로 Install
+> * 다음 다음으로 Install
 >
 > ![image](https://user-images.githubusercontent.com/51815947/59551971-525d9880-8fbc-11e9-9c91-3bef135f33ae.png)
 > 
