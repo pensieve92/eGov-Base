@@ -18,12 +18,16 @@
 > ![image](https://user-images.githubusercontent.com/51815947/59551971-525d9880-8fbc-11e9-9c91-3bef135f33ae.png)
 > 
 > JAVA_HOME 변수 지정
->
+> 
 > ![image](https://user-images.githubusercontent.com/51815947/59551973-55588900-8fbc-11e9-822a-a11edf36a06d.png)
 > 
 > Path 지정
->
->![image](https://user-images.githubusercontent.com/51815947/59551974-57bae300-8fbc-11e9-9947-6b883309dd97.png)
+> 
+> ![image](https://user-images.githubusercontent.com/51815947/59551974-57bae300-8fbc-11e9-9947-6b883309dd97.png)
+> 
+> java, javac 버전확인
+> 
+> ![image](https://user-images.githubusercontent.com/51815947/59552065-360e2b80-8fbd-11e9-9448-e47794fee366.png)
 
 
 
