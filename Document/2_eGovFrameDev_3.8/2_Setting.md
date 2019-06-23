@@ -12,7 +12,7 @@
 > 경로 : Window > Preferences > 'encoding' 검색  
 > 전체 UTF-8로 설정
 
-> ## 3. Code default Template ([shift] + [alt] + [J])
+> ## 3. Code default Template 설정 ([shift] + [alt] + [J])
 > 경로 : Window > Preferences > 'template' 검색 > Java > Code Style > Code Template > Comments > Types, Methods  
 >
 > Types 설정
@@ -37,3 +37,30 @@
 > * @return : ${return_type} 
 > */
 > ```
+
+> ## 4. 자동완성 설정
+> 경로 : Window > Preferences > 'template' 검색 > Java > Code Style > Editor > Template > New  
+>
+> Test Code 용 주석 설정
+>
+> ```
+> name : gwr
+> Description : TestCodeCreate
+> Pattern : 
+>
+>	//given
+>
+>
+>	//work
+>
+>
+>	//result
+> ```
+> 현재 날짜 자동 완성 설정
+>
+> ```
+> name : cd
+> Description : 현재 날짜
+> Pattern :  ${date}
+> ```
+
