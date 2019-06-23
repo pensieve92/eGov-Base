@@ -64,3 +64,13 @@
 > Pattern :  ${date}
 > ```
 
+> ## 5. Tasks 설정 ( //TODO  : )
+> 경로 : Window > Preferences > 'task tag' 검색 > Java > Compiler > Task Tags
+> 
+
+> ## 6. Eclipse 설정 Export
+> 경로 : File > Export > General > Preferences   
+> Export all 체크  
+> 이클립스 설정.epf
+
+
