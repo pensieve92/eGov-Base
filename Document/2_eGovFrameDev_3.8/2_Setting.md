@@ -7,11 +7,11 @@
 >
 > -Xms512m  >>  -Xms1024m  
 > -Xmx1024m >>  -Xmx1024m
-
+*****
 > ## 2. 인코딩 UTF-8 설정
 > 경로 : Window > Preferences > 'encoding' 검색  
 > 전체 UTF-8로 설정
-
+*****
 > ## 3. Code default Template 설정 ([shift] + [alt] + [J])
 > 경로 : Window > Preferences > 'template' 검색 > Java > Code Style > Code Template > Comments > Types, Methods  
 >
@@ -27,7 +27,7 @@
 > * </PRE> 
 > */
 > ```
-> *****
+
 > Methods 설정
 > ```
 >/**
@@ -37,6 +37,7 @@
 > * @return : ${return_type} 
 > */
 > ```
+*****
 
 > ## 4. 자동완성 설정
 > 경로 : Window > Preferences > 'template' 검색 > Java > Code Style > Editor > Template > New  
@@ -63,10 +64,12 @@
 > Description : 현재 날짜
 > Pattern :  ${date}
 > ```
+*****
 
 > ## 5. Tasks 설정 ( //TODO  : )
 > 경로 : Window > Preferences > 'task tag' 검색 > Java > Compiler > Task Tags
 > 
+*****
 
 > ## 6. Eclipse 설정 Export
 > 경로 : File > Export > General > Preferences   
