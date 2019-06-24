@@ -1,4 +1,4 @@
-# Ecplise_Git_Commit_Error
+# Commit_Push_Error
 ### rejected - non-fast-forward
 ### 참고 사이트 : https://m.blog.naver.com/sim4858/220924984480
 
