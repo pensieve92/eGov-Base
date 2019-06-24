@@ -26,7 +26,7 @@ public class test {
 		//TODO: 오늘은 여기까지
 		//TODO 여기까지
 		
-		
+		//commit, pushTest
 
 		//work
 
