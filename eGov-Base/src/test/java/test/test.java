@@ -28,6 +28,8 @@ public class test {
 		
 		//commit, pushTest
 		//commit, pushTest2
+		//commit, pullTest3
+		
 		//work
 
 		//result
