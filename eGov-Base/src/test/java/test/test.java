@@ -29,9 +29,7 @@ public class test {
 		//commit, pushTest
 		//commit, pushTest2
 		//commit, pullTest3
-		//commit, pushTest4
-		
-		
+		//commit, pushTest4		
 		//servlet_javaAnnotation Branch Create
 		
 		//work
